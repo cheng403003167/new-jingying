@@ -32,19 +32,19 @@ body{
 	background-size: 500%;
 }
 .sina{
-	background-position-x: -608px;
+	background-position: -608px 0;
 }
 .cn21{
-	background-position-x: 0;
+	background-position: 0 0;
 }
 .kr36{
-	background-position-x: -152px;
+	background-position: -152px 0;
 }
 .jiemo{
-	background-position-x: -304px;
+	background-position: -304px 0;
 }
 .qq{
-	background-position-x: -456px;
+	background-position: -456px 0;
 }
 .text{
 	font-size: 14px;

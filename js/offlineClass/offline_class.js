@@ -2,7 +2,7 @@ $(function(){
 	var page = 0,lass = '';
 	$.ajax({
 		url:"../PHP/offlineClass/classlist.php",
-		// dataType:"JSON",
+		dataType:"JSON",
 		cathe:false,
 		success:function(data){
 			$(".class_num span").text(data.length);
